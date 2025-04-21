@@ -406,7 +406,7 @@ const _nav = [
     icon: <CIcon icon={cilCalculator} customClassName="nav-icon" />,
     badge: {
       color: 'info',
-      text: 'NEW',
+      text: 'NEW 2',
     },
   },
   {

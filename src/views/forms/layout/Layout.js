@@ -27,7 +27,7 @@ const Layout = () => {
           </CCardHeader>
           <CCardBody>
             <p className="text-body-secondary small">
-              More complex forms can be built using our grid classes. Use these for form layouts
+              More complex forms can be built using our grid classes yousuf. Use these for form layouts
               that require multiple columns, varied widths, and additional alignment options.
             </p>
             <DocsExample href="forms/layout#form-grid">
